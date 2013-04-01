@@ -80,6 +80,7 @@ div > .tooltip, li > .tooltip, a > .tooltip, span > .tooltip {
 }
 
 		.tooltip:before { /* Triangle */
+			content: "";
 			background: #FFFBCF;
 
 			border: 0;
