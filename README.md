@@ -15,10 +15,10 @@ Use this HTML structure to create tooltips:
 
 ```
 <a href="#">
-	Lorem ipsum — the content of the link	
-	<span class="tooltip"> — start of the tooltip
-		Lorem ipsum dolor sit amet — the content of the tooltip		
-	</span> — end of the tooltip	
+	Lorem ipsum  // the content of the link	
+	<span class="tooltip"> // start of the tooltip
+		Lorem ipsum dolor sit amet // the content of the tooltip		
+	</span> // end of the tooltip	
 </a>
 ```
 			
