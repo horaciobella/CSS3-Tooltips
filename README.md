@@ -7,16 +7,20 @@ Pure CSS3 tooltips. No images. No js.
 
 First add the .css file.
 
-```<link rel="stylesheet" href="tooltips.css" type="text/css" media="screen" />```
+```
+<link rel="stylesheet" href="tooltips.css" type="text/css" media="screen" />
+```
 
 Use this HTML structure to create tooltips:
 
-```<a href="#">
+```
+<a href="#">
 	Lorem ipsum — the content of the link	
 	<span class="tooltip"> — start of the tooltip
 		Lorem ipsum dolor sit amet — the content of the tooltip		
 	</span> — end of the tooltip	
-</a>```
+</a>
+```
 			
 Don't use block elements inside the tooltip. To do so, you have to change the span structure for divs.
 
