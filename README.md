@@ -1,19 +1,20 @@
 CSS3-Tooltips
 =============
 
-Pure CSS3 tooltips. No images. No js. [Here the demo](http://horaciobella.com).
+Pure CSS3 tooltips. No images. No js. 
+[Here the demo](http://horaciobella.com/tooltips).
 
 ## Usage
 
 First add the .css file.
 
-```shtml
+```html
 <link rel="stylesheet" href="tooltips.css" type="text/css" media="screen" />
 ```
 
 Use this HTML structure to create tooltips:
 
-```shtml
+```html
 <a href="#">
 	Lorem ipsum
 	<span class="tooltip">
@@ -34,3 +35,9 @@ Don't use block elements inside the tooltip. To do so, you have to change the sp
 
 ### Internet Explorer
 - Everything works correctly from version 9.
+
+## Credits
+
+These tooltips were made by Horacio Bella ([horaciobella.com](http://horaciobella.com)) in the beautiful, creative space provided by Beew ([holabeew.com](http://holabeew.com)) in Rosario, Argentina. They were released to use for free. You can follow me on Twitter ([@horaciobella](http://horaciobella.com)) or contact me by any other mean listed on my site.
+
+Did you like these tooltips? Please [tweet this](http://www.twitter.com/home/?status=Pure+CSS3+tooltips+http://bit.ly/eZiW0K+by+@horaciobella) :-)
