@@ -1,24 +1,24 @@
 CSS3-Tooltips
 =============
 
-Pure CSS3 tooltips. No images. No js.
+Pure CSS3 tooltips. No images. No js. [Here the demo](http://horaciobella.com).
 
 ## Usage
 
 First add the .css file.
 
-```
+```shtml
 <link rel="stylesheet" href="tooltips.css" type="text/css" media="screen" />
 ```
 
 Use this HTML structure to create tooltips:
 
-```
+```shtml
 <a href="#">
-	Lorem ipsum  // the content of the link	
-	<span class="tooltip"> // start of the tooltip
-		Lorem ipsum dolor sit amet // the content of the tooltip		
-	</span> // end of the tooltip	
+	Lorem ipsum
+	<span class="tooltip">
+		Lorem ipsum dolor sit amet		
+	</span>
 </a>
 ```
 			
